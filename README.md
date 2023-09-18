@@ -1,5 +1,6 @@
 # Lotofacil
-Projeto Linguagens de Programação - Simulador de apostas Lotofácil (terminal de jogos)
+Projeto Linguagens de Programação - Simulador de apostas Lotofácil (terminal de jogos).
+
 O sistema criado foi desenvolvido para que fosse capaz de gerar jogos aleatórios, permitir que os jogadores façam
 suas apostas, verificar os resultados e calcular prêmios de acordo com as regras da loteria. 
 
